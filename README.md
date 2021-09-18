@@ -1,6 +1,8 @@
 # Machine Learning and Time Series Reading Group
 
-This repository intend to organize a list of papers to be read within the MLTS reading group. The group is mainly formed by, but not restricted to, PhD and master students from the Institute of Mathmatics and Statistics at the University of Sao Paulo (IME-USP).
+Tentative reading list:
+
+<!-- This repository intend to organize a list of papers to be read within the MLTS reading group. The group is mainly formed by, but not restricted to, PhD and master students from the Institute of Mathmatics and Statistics at the University of Sao Paulo (IME-USP). -->
 
 #### 1. Learning Theory
 
